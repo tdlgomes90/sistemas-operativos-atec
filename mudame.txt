@@ -9,3 +9,6 @@ Este ficheiro sera editado em diferentes ambientes:
 
 
 1a alteracao - Ficheiro editado no Windows atraves do PC casa.
+
+2a alteracao - Ficheiro editado no CentOS atraves da linha de comandos (CLI)
+
