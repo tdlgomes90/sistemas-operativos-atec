@@ -12,3 +12,4 @@ Este ficheiro sera editado em diferentes ambientes:
 
 2a alteracao - Ficheiro editado no CentOS atraves da linha de comandos (CLI)
 
+2a alteracao - Ficheiro editado no Ubuntu atraves de interface grafica (GUI).
