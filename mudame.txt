@@ -1,0 +1,8 @@
+Exercicio Git e GitHub - Sistemas Operativos
+ATEC - CISEG PL 1026
+Nome: Telma Gomes
+
+Este ficheiro sera editado em diferentes ambientes:
+- Windows (PC casa)
+- CentOS (CLI)
+- Segunda maquina com GUI
