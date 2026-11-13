@@ -6,3 +6,6 @@ Este ficheiro sera editado em diferentes ambientes:
 - Windows (PC casa)
 - CentOS (CLI)
 - Segunda maquina com GUI
+
+
+1a alteracao - Ficheiro editado no Windows atraves do PC casa.
